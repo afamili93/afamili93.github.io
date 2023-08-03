@@ -26,4 +26,4 @@ B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _University of Te
 
 News
 ======
- - [8/2] Launched website!
+ - [6/28] We won BEST Paper Award at IEEE International Conference on Metavers Computing, Networking and Applicatins (METACOM)
