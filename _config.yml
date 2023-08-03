@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tolga O. Atalay"
-  avatar           : "tolgaatalay.png"
+  name             : "Alireza Famili"
+  avatar           : "alirezafamili.PNG"
   bio              : "Ph.D. Candiate @Virginia Tech"
   location         : "Washington, D.C."
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dKa-9XYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tolgaoa"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tolga-atalay-020823149/"
+  linkedin         : "alireza-famili-39599b77"
   orcid            : 
   pinterest        :
   soundcloud       :

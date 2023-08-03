@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/) supervised by Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html) in the Network and Software Security Lab (NSSL). My research interests are 5G core networks, O-RAN, cloud computing and system security.
+I received my B.Sc. degree in Electrical Engineering with the specification in communications from the University of Tehran, Tehran, Iran in 2016.  Then I completed my M.Sc. degree in Electrical Engineering from Lehigh University, Pennsylvania, USA in 2018.  I am currently pursuing a Ph.D. degree in electrical and computer engineering at the [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/). I am co-supervised by Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html) in the Network and Software Security Lab (NSSL).
 
-My research revolves around identifying scalability bottlenecks and security issues in 5G networks. I strive to design, implement and test novel frameworks that will facilitate the scalable, secure and efficient delivery of 5G and beyond networks.
 
-Before joining Virginia Tech, I received by M.Sc. from [Danmarks Tekniske Universitet](https://www.dtu.dk/english/) in Telecommunications (2018) and B.Sc. from [Bilkent University](https://ee.bilkent.edu.tr/en/) in Electrical and Electronic Engineering (2016).
+My research interests include security issues in unmanned aerial vehicles (UAVs), localization/tracking/navigation for UAVs, positioning in cellular networks with the focus on 5G/6G, specifically high-accuracy localization for Augmented/Virtual/Mixed Reality (AR/VR/MR), and wireless communications/networking. 
+
 
 Education
 ======
 
-Ph.D. in Computer Engineering (2018 - Present), _Virginia Tech_
+Ph.D. in Electrical Engineering (2018 - Present), _Virginia Tech_
 
-M.Sc. in Telecommunications (2016 - 2018), _Danmarks Tekniske Universitet (DTU)_
+M.Sc. in Electrical Engineering (2016 - 2018), _Lehigh University_
 
-B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _Bilkent University_
+B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _University of Tehran_
 
 
 News
