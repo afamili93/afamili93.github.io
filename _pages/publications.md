@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
- \* - co-primary author
+ 
 
 
 - <span style="color: #8B0000;">**idrop: Robust localization for indoor navigation of drones with optimized beacon placement**</span><br>
