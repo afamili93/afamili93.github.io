@@ -6,14 +6,17 @@ author_profile: true
 ---
  
 
-
-- <span style="color: #8B0000;">**idrop: Robust localization for indoor navigation of drones with optimized beacon placement**</span><br>
-	**Alireza Famili**, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park <br>
-	IEEE Internet of Things Journal
-	
+- <span style="color: #8B0000;">**OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs**</span><br>
+	**Alireza Famili**, Tolga O. Atalay, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park <br>
+	IEEE Journal on Selected Areas in Communications (JSAC)
+ 
 - <span style="color: #8B0000;">**PILOT: High-Precision Indoor Localization for Autonomous Drones**</span><br>
 	**Alireza Famili**, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park <br>
 	IEEE Transactions on Vehicular Technology
+
+- <span style="color: #8B0000;">**iDROP: Robust localization for indoor navigation of drones with optimized beacon placement**</span><br>
+	**Alireza Famili**, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park <br>
+	IEEE Internet of Things Journal
 	
 - <span style="color: #8B0000;">**Rolatin: Robust localization and tracking for indoor navigation of drones**</span><br>
 	**Alireza Famili**, Jung-Min (Jerry) Park  <br>
@@ -21,7 +24,7 @@ author_profile: true
 	
 - <span style="color: #8B0000;">**Rail: Robust acoustic indoor localization for drones**</span><br>
 	**Alireza Famili**, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park  <br>
-	2022 IEEE 95th Vehicular Technology Conference:(VTC2022-Spring)
+	2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)
 
 - <span style="color: #8B0000;">**Wi-Six: Precise Positioning in the Metaverse via Optimal Wi-Fi Router Deployment in 6G Networks**</span><br>
 	**Alireza Famili**, Tolga O. Atalay, Angelos Stavrou, Haining Wang <br>
