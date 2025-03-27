@@ -8,25 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm an eager researcher in the field of Electrical & Computer Engineering with an academic journey that spans continents. I earned my B.Sc. in Electrical Engineering, specializing in communications, from the esteemed [University of Tehran](https://ece.ut.ac.ir/en), Tehran, Iran in 2016. Following that, I ventured to the United States, where I completed my M.Sc. in Electrical Engineering at [Lehigh University](https://engineering.lehigh.edu/ece), Pennsylvania, USA in 2018.
+<img src='/images/localbacksource.png'><br>
 
-Currently, I'm engaged in the pursuit of a Ph.D. degree in Electrical and Computer Engineering at the renowned [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/), under the co-supervision of two distinguished professors, Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html), within the Network and Software Security Lab (NSSL).
+Greetings! I am a researcher, engineer, and entrepreneur passionate about high-accuracy localization, wireless communications, and next-generation tracking technologies. My academic journey spans multiple continents, beginning with a B.Sc. in Electrical Engineering (specializing in communications) from the [University of Tehran](https://ece.ut.ac.ir/en), Iran, in 2016. I then pursued my M.Sc. in Electrical Engineering at [Lehigh University](https://engineering.lehigh.edu/ece), Pennsylvania, USA, where I deepened my expertise in signal processing and wireless systems, earning my degree in 2018.
 
-My research interests are diverse, encompassing critical areas such as security in unmanned aerial vehicles (UAVs), wireless communications/networking, UAV localization, and positioning techniques in advanced cellular networks like 5G New Radio (NR) and beyond (6G) with a special focus on high-accuracy localization for Augmented/Virtual/Mixed Reality (AR/VR/MR).
+Building on this foundation, I completed my Ph.D. in Electrical and Computer Engineering at the Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/), in December 2023. Under the co-supervision of Professor [Angelos Stavrou](https://computing.ece.vt.edu/~angelos/) and Professor [Haining Wang](https://ece.vt.edu/people/profile/wangh.html), my doctoral research focused on wireless communications, security, and high-precision positioning technologies, with applications in UAV localization, advanced 5G/6G networks, and AR/VR/MR systems.
 
+Following my Ph.D., I co-founded WayWave Inc. alongside Professor Angelos Stavrou. At WayWave, we bridge cutting-edge research and product development, working on next-generation localization and tracking solutions. Our work spans from high-accuracy tracking for AR/VR/MR systems to passive detection and localization of intruder objects using spaceborne illumination. Additionally, we are pioneering photonic-based high-accuracy timing systems that have the potential to revolutionize ranging capabilities and beyond.
+
+My expertise lies at the intersection of wireless systems, positioning and navigation, security, signal processing, and photonic-based timing technologies, and I am driven bythe challenge of transforming theoretical advancements into real-world solutions.
 
 
 Education
 ======
 
-Ph.D. in Electrical Engineering (2018 - Present), _Virginia Tech_
+Ph.D. in Electrical Engineering (2018 - 2023), _Virginia Tech_
 
 M.Sc. in Electrical Engineering (2016 - 2018), _Lehigh University_
 
 B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _University of Tehran_
 
-
-News
-======
- - [6/28] We won the BEST Paper Award at the IEEE International Conference on Metaverse Computing, Networking and Applications (METACOM) with [Tolga Atalay](https://tolgaoa.github.io)
- - [8/13] Our research paper, titled "OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs" has been accepted for publication in the prestigious IEEE Journal on Selected Areas in Communications (JSAC)

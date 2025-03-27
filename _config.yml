@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alireza Famili"
 title_separator          : "-"
 name                     : &name "Alireza Famili"
-description              : &description "Ph.D. Candiate @Virginia Tech"
+description              : &description "Co-Founder & Chief Technology Officer @ WayWave Inc"
 url                      : https://afamili93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afamili93/afamili93.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alireza Famili"
   avatar           : "alirezafamili.jpeg"
-  bio              : "Ph.D. Candiate @ Virginia Tech"
+  bio              : "Co-Founder and CTO  @ WayWave Inc"
   location         : "Washington, D.C., Metro Area"
   employer         :
   pubmed           : 
