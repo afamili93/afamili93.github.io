@@ -18,12 +18,12 @@ author_profile: true
 	**Alireza Famili**, Angelos Stavrou, Haining Wang, Jung-Min (Jerry) Park <br>
 	IEEE Internet of Things Journal 2023 
 	
-- <span style="color: #8B0000;">**Harnessing Meta-Reinforcement Learning for Enhanced Tracking in Geofencing Systems**</span><br>
-	**Alireza Famili**,Georgia Himona, Yannis Kominis, Angelos Stavrou, Vassilios Kovanis<br>
+- <span style="color: #8B0000;">**Leveraging Isochrons of Nonlinear Oscillators for High-Precision Localization**</span><br>
+	**Alireza Famili**, Georgia Himona, Yannis Kominis, Angelos Stavrou, Vassilios Kovanis<br>
 	IEEE Internet of Things Journal 2024
 
 - <span style="color: #8B0000;">**Harnessing Meta-Reinforcement Learning for Enhanced Tracking in Geofencing Systems**</span><br>
-	**Alireza Famili**,Shihua Sun, Tolga O. Atalay, Angelos Stavrou<br>
+	**Alireza Famili**, Shihua Sun, Tolga O. Atalay, Angelos Stavrou<br>
 	IEEE Open Journal of the Communications Society 2025
 
 - <span style="color: #8B0000;">**5G-STREAM: 5G Service Mesh Tailored for Reliable, Efficient and Authorized Microservices in the Cloud** </span> <br>
