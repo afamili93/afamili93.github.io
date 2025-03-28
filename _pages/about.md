@@ -16,7 +16,7 @@ Building on this foundation, I completed my Ph.D. in Electrical and Computer Eng
 
 Following my Ph.D., I co-founded [WayWave Inc.](https://waywave.com/) alongside Professor Angelos Stavrou. At WayWave, we bridge cutting-edge research and product development, working on next-generation localization and tracking solutions. Our work spans from high-accuracy tracking for AR/VR/MR systems to passive detection and localization of intruder objects using spaceborne illumination. Additionally, we are pioneering photonic-based high-accuracy timing systems that have the potential to revolutionize ranging capabilities and beyond.
 
-My expertise lies at the intersection of wireless systems, positioning and navigation, security, signal processing, and photonic-based timing technologies, and I am driven bythe challenge of transforming theoretical advancements into real-world solutions.
+My expertise lies at the intersection of wireless systems, positioning and navigation, security, signal processing, and photonic-based timing technologies, and I am driven by the challenge of transforming theoretical advancements into real-world solutions.
 
 
 Education
